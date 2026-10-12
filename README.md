@@ -11,4 +11,4 @@ Escribo SQL en BigQuery, modelo métricas en LookML y construyo dashboards en Lo
 
 **Stack:** SQL (GoogleSQL) · BigQuery · Cloud Storage · Looker Enterprise · LookML · Data Studio (Looker Studio) · Connected Sheets · ETL/ELT · C++ · Python (básico: pandas, NumPy) · Git
 
-**Contacto:** [LinkedIn](https://www.linkedin.com/in/dani-galea-romero-060941371/) · darnite26@gmail.com · [Credly](https://www.credly.com/badges/53fe75b2-e19a-4265-aa9f-7e4d497fc33a/public_url)
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/daniel-galea-romero-060941371/) · darnite26@gmail.com · [Credly](https://www.credly.com/badges/53fe75b2-e19a-4265-aa9f-7e4d497fc33a/public_url)
