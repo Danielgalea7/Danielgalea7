@@ -9,6 +9,6 @@ Escribo SQL en BigQuery, modelo métricas en LookML y construyo dashboards en Lo
 - [**TheLook Fintech**](https://github.com/Danielgalea7/thelook-fintech-capstone): salud de una cartera de 270.299 préstamos, de BigQuery a un dashboard en Looker con alerta de riesgo. *Loan-portfolio health, from BigQuery to a Looker dashboard with a risk alert.*
 - [**Portfolio**](https://danielgalea7.github.io): caso completo, segmentación RFM, particionado (−98 % de datos escaneados) y pipeline SQL, con datos públicos reales. *Case study, RFM, partitioning and a SQL pipeline on real public data.*
 
-**Stack:** SQL (GoogleSQL) · BigQuery · Cloud Storage · Looker Enterprise · LookML · Data Studio (Looker Studio) · Connected Sheets · ETL/ELT · Git
+**Stack:** SQL (GoogleSQL) · BigQuery · Cloud Storage · Looker Enterprise · LookML · Data Studio (Looker Studio) · Connected Sheets · ETL/ELT · C++ · Python (básico: pandas, NumPy) · Git
 
 **Contacto:** [LinkedIn](https://www.linkedin.com/in/dani-galea-romero-060941371/) · darnite26@gmail.com · [Credly](https://www.credly.com/badges/53fe75b2-e19a-4265-aa9f-7e4d497fc33a/public_url)
