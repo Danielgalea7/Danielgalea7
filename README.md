@@ -2,8 +2,8 @@
 
 **Data Analyst junior (Google Cloud)** · Doble Grado en Ingeniería Informática y Matemáticas, Universidad de Granada (9,1 de media, 7 matrículas de honor) · Google Cloud Data Analytics Certificate (oct. 2026).
 
-Escribo SQL en BigQuery, modelo métricas en LookML y construyo dashboards en Looker. Busco prácticas o un puesto junior **a media jornada**, en remoto o híbrido desde Granada.
-*I write SQL in BigQuery, model metrics in LookML and build Looker dashboards. Looking for a part-time internship or junior role, remote or hybrid from Granada, Spain.*
+Escribo SQL en BigQuery, modelo métricas en LookML y construyo dashboards en Looker. Busco un puesto de Data Analyst junior **a media jornada**, en remoto o híbrido desde Granada, con incorporación inmediata.
+*I write SQL in BigQuery, model metrics in LookML and build Looker dashboards. Looking for a part-time junior Data Analyst role, remote or hybrid from Granada, Spain, available immediately.*
 
 **Proyectos · Projects**
 - [**TheLook Fintech**](https://github.com/Danielgalea7/thelook-fintech-capstone): salud de una cartera de 270.299 préstamos, de BigQuery a un dashboard en Looker con alerta de riesgo. *Loan-portfolio health, from BigQuery to a Looker dashboard with a risk alert.*
